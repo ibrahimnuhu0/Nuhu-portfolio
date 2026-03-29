@@ -1,4 +1,4 @@
-import { counterItems } from "../../constants";
+import { counterItems } from "../constants";
 import CountUp from 'react-countup';
 
 
