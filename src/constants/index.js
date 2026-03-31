@@ -35,19 +35,7 @@ const counterItems = [
   { value: 95, suffix: "%", label: "Client Retention Rate" },
 ];
 
-const logoIconsList = [
-  { imgPath: "/images/logos/company-logo-1.png" },
-  { imgPath: "/images/logos/company-logo-2.png" },
-  { imgPath: "/images/logos/company-logo-3.png" },
-  { imgPath: "/images/logos/company-logo-4.png" },
-  { imgPath: "/images/logos/company-logo-5.png" },
-  { imgPath: "/images/logos/company-logo-6.png" },
-  { imgPath: "/images/logos/company-logo-7.png" },
-  { imgPath: "/images/logos/company-logo-8.png" },
-  { imgPath: "/images/logos/company-logo-9.png" },
-  { imgPath: "/images/logos/company-logo-10.png" },
-  { imgPath: "/images/logos/company-logo-11.png" },
-];
+
 
 const abilities = [
   {
@@ -129,8 +117,8 @@ const expCards = [
       "Nuhu played a key role in building out our multi-dashboard frontend. His attention to responsive design and clean component architecture made a real difference to the product.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer — OnadaPrep",
-    date: "2023 - Present",
+    title: "Frontend Developer — OnadaInnovative",
+    date: "2025 - Present",
     responsibilities: [
       "Built and maintained three separate dashboards (admin, tutor, student) using Next.js and Tailwind CSS.",
       "Led the responsive design overhaul, converting sidebars to mobile drawers and updating navbar components across all dashboards.",
@@ -209,7 +197,6 @@ const socialImgs = [
 export {
   words,
   abilities,
-  logoIconsList,
   counterItems,
   expCards,
   expLogos,
