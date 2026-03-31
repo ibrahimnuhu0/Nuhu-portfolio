@@ -57,7 +57,7 @@ const abilities = [
 
 const techStackImgs = [
   {
-    name: "React / Next.js Developer",
+    name: "React Developer",
     imgPath: "/images/logos/react.png",
   },
   {
@@ -80,13 +80,13 @@ const techStackImgs = [
 
 const techStackIcons = [
   {
-    name: "React / Next.js Developer",
+    name: "React Developer",
     modelPath: "/models/react_logo-transformed.glb",
     scale: 1,
     rotation: [0, 0, 0],
   },
   {
-    name: "TypeScript Developer",
+    name: "Python Developer",
     modelPath: "/models/python-transformed.glb", // swap for TS model if available
     scale: 0.8,
     rotation: [0, 0, 0],
@@ -98,7 +98,7 @@ const techStackIcons = [
     rotation: [0, -Math.PI / 2, 0],
   },
   {
-    name: "UI / Tailwind Developer",
+    name: "Interactive Developer",
     modelPath: "/models/three.js-transformed.glb",
     scale: 0.05,
     rotation: [0, 0, 0],
