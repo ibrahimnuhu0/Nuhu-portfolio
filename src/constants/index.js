@@ -115,7 +115,7 @@ const expCards = [
   {
     review:
       "Nuhu played a key role in building out our multi-dashboard frontend. His attention to responsive design and clean component architecture made a real difference to the product.",
-    imgPath: "/images/exp1.png",
+    imgPath: "/images/logo1.png",
     logoPath: "/images/logo1.png",
     title: "Frontend Developer — OnadaInnovative",
     date: "2025 - Present",
@@ -128,10 +128,10 @@ const expCards = [
   {
     review:
       "Nuhu consistently delivers clean, readable code and communicates well across the team. His ability to pick up new patterns quickly makes him a reliable contributor.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
-    title: "Freelance Frontend Developer",
-    date: "2022 - 2023",
+    imgPath: "/images/logo1.png",
+    logoPath: "/images/logo1.png",
+    title: "Freelance Fullstack Developer",
+    date: "2022 - present",
     responsibilities: [
       "Developed responsive web interfaces for small business clients using React and CSS.",
       "Collaborated with clients to translate design mockups into functional, accessible UIs.",
@@ -143,18 +143,18 @@ const expCards = [
 const expLogos = [
   {
     name: "logo1",
-    imgPath: "/images/logo1.png",
+    imgPath: "/images/logo1.webp",
   },
   {
     name: "logo2",
-    imgPath: "/images/logo2.png",
+    imgPath: "/images/logo1.webp",
   },
 ];
 
 const testimonials = [
   {
-    name: "Steven Ogunjobi",
-    mentions: "@stephenogunjobi",
+    name: "George Cipher",
+    mentions: "@Georgeck",
     review:
       "Nuhu is a dependable developer who takes feedback seriously and grows with every sprint. His work on the responsive dashboard overhaul was thorough and well-executed.",
     imgPath: "/images/client1.png",
@@ -186,10 +186,12 @@ const socialImgs = [
   },
   {
     name: "x",
+    url: "https://x.com/ibrahimnuhu0",
     imgPath: "/images/x.png",
   },
   {
     name: "linkedin",
+    url: "https://www.linkedin.com/in/ibrahim-nuhu-963b0512b/",
     imgPath: "/images/linkedin.png",
   },
 ];
