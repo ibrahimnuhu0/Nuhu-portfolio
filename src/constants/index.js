@@ -129,7 +129,7 @@ const expCards = [
     review:
       "Nuhu consistently delivers clean, readable code and communicates well across the team. His ability to pick up new patterns quickly makes him a reliable contributor.",
     imgPath: "/images/logo1.png",
-    logoPath: "/images/logo1.png",
+    logoPath: null,
     title: "Freelance Fullstack Developer",
     date: "2022 - present",
     responsibilities: [
