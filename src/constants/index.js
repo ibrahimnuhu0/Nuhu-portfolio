@@ -17,6 +17,52 @@ const navLinks = [
   },
 ];
 
+const projects = [
+  {
+    id: 1,
+    image: '/images/delivr.png',
+    alt: 'Delivr',
+    title: 'Delivr — Last-Mile Delivery Operations Dashboard',
+    description: 'A full-stack delivery ops dashboard for Nigerian logistics businesses, featuring live maps, CSV export, pagination, and keyboard shortcuts.',
+    tag: 'Full-Stack',
+    featured: true,
+    bg: '#e8f0fd',
+    liveLink: 'https://delivr-fawn.vercel.app/',
+    githubLink: 'https://github.com/ibrahimnuhu0/delivr',
+  },
+  {
+    id: 2,
+    image: '/images/project1.png',
+    alt: 'Smzee Kiddies',
+    title: 'Shopping made easy with Smzee Kiddies',
+    description: 'An e-commerce website built with HTML, CSS and JavaScript for Smzee.',
+    tag: 'E-Commerce',
+    bg: '#e8f4fd',
+    liveLink: 'https://ibrahimnuhu0.github.io/SM_Zee_kiddies/',
+    githubLink: 'https://github.com/ibrahimnuhu0/SM_Zee_kiddies',
+  },
+  {
+    id: 3,
+    image: '/images/project2.png',
+    alt: 'Little Lemon',
+    title: 'Little Lemon Restaurant',
+    description: 'Restaurant website with a table booking system.',
+    bg: '#ffefdb',
+    liveLink: 'hhttps://little-lemonapp.netlify.app/',
+    githubLink: 'https://github.com/ibrahimnuhu0/little-lemon',
+  },
+  {
+    id: 4,
+    image: '/images/project3.png',
+    alt: 'Paradise Nursery',
+    title: 'Paradise Nursery',
+    description: 'A plant shop and care guide built with React.',
+    bg: '#ffe7eb',
+    liveLink: 'https://ibrahimnuhu0.github.io/e-plantShopping/',
+    githubLink: 'https://github.com/ibrahimnuhu0/e-plantShopping',
+  },
+]
+
 const words = [
   { text: "Ideas", imgPath: "/images/ideas.svg" },
   { text: "Concepts", imgPath: "/images/concepts.svg" },
@@ -207,4 +253,5 @@ export {
   techStackIcons,
   techStackImgs,
   navLinks,
+  projects
 };
