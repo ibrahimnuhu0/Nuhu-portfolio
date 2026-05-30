@@ -224,6 +224,7 @@ const testimonials = [
 const socialImgs = [
   {
     name: "fb",
+    url: "https://web.facebook.com/ibrahim.nuhu.906/",
     imgPath: "/images/fb.png",
   },
   {
