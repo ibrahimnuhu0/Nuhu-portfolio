@@ -31,6 +31,17 @@ const projects = [
     githubLink: 'https://github.com/ibrahimnuhu0/delivr',
   },
   {
+      id: 5,
+    image: '/images/invoicr.png',
+    alt: 'Invoicr',
+    title: 'Invoicr — Invoicing & Payments Platform for Freelancers',
+    description: 'A full-stack invoicing SaaS with shareable payment links, real-time status tracking, Paystack payment integration with webhook verification, and PDF invoice generation.',
+    tag: 'Full-Stack',
+    bg: '#fff4e0',
+    liveLink: 'https://invoicr-snowy.vercel.app/',
+    githubLink: 'https://github.com/ibrahimnuhu0/invoicr',
+    },
+  {
     id: 2,
     image: '/images/project1.png',
     alt: 'Smzee Kiddies',
